@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 
-[Live Demo](https://cardstack-on-scroll-using-next-framermotion.vercel.app/)
+[Live Demo](https://cardstack-on-scroll-using-next-framermotion.vercel.app/){:target="_blank"}
 
 ## Getting Started
 
